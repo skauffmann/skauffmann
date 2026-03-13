@@ -13,6 +13,7 @@ When I'm not coding, you'll find me running 🏃, playing badminton 🏸, or rea
 ### 🚀 What I'm working on
 
 - **[Umbreon.io](https://umbreon.io)** - Online agile retrospective tool I've been building since 2019. Over **2,000 retrospectives** created and counting!
+- **[LeFreelance.fr](https://lefreelance.fr)** - A French media site for freelancers. Articles, guides, and interactive tools (simulators, calculators) to help independent workers launch, grow, and manage their business.
 - **[JollyCards.fr](https://jollycards.fr)** - My dive into e-commerce since 2022. A shop dedicated to Pokémon, One Piece & Naruto trading cards. An exciting adventure and a real challenge!
 
 ### 🛠️ Tech Stack
